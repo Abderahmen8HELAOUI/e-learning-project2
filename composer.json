@@ -51,7 +51,8 @@
         "symfony/phpunit-bridge": "^5.1",
         "symfony/stopwatch": "^5.2@RC",
         "symfony/var-dumper": "^5.2@RC",
-        "symfony/web-profiler-bundle": "^5.2@RC"
+        "symfony/web-profiler-bundle": "^5.2@RC",
+        "theofidry/psysh-bundle": "^4.3"
     },
     "config": {
         "optimize-autoloader": true,
